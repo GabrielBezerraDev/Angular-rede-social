@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/scss/bootstrap';
+
+:root{
+  .bg-green{
+    background-color: #a5e171;
+  }
+  --bg-hover: #8db867;
+  --width-page: 100vw;
+}
